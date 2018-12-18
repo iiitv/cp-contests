@@ -8,7 +8,7 @@ int main()
 	{
 		int n1=0;
 		int n2=0;
-		char car[50]="";
+		char car[500]="";
 		scanf("%d",&n1);
 		scanf("%d",&n2);
 		int t2=n2;
