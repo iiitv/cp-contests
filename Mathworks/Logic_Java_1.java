@@ -1,5 +1,5 @@
 import java.util.*;
-public class Question1_beg
+public class Logic_Java_1
 {
     public static void main(String args[])
     {
