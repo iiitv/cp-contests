@@ -5,7 +5,7 @@ public class Logic
     {
         Scanner in=new Scanner(System.in);
         int t=in.nextInt();
-        for(int i=0;i<t;i++)
+        while(t>0)
         {
             int n1=in.nextInt();
             int n2=in.nextInt();
@@ -19,7 +19,7 @@ public class Logic
                 int y=t2%10;
                 carry=0;
                 t1=n1;
-                while(t1>0)
+                while(t1>10)
                 {
                     int x=t1%10;
                     int z=x*y+carry;
@@ -34,6 +34,7 @@ public class Logic
                 t2=t2/10;
             }
             System.out.println(c+" "+car);
+            t--;
         }
     }
 }
