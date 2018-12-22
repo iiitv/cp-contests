@@ -5,7 +5,7 @@ public class logic
     {
         Scanner in=new Scanner(System.in);
         int n=in.nextInt();
-        for(int m=0;m<n;m++)
+        while(n>0)
         {
             int w=in.nextInt();
             in.nextLine();
@@ -69,6 +69,7 @@ public class logic
                 System.out.println("GOOD, "+time);
             else
                 System.out.println("WORK HARDER, "+time);
+	n--;
         }
     }
 }
