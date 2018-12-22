@@ -69,9 +69,9 @@ with zipfile.ZipFile('test-cases.zip', 'w', zipfile.ZIP_DEFLATED) as zf:
             # System call to generate output files for C++
             os.system('./logic < input/input%02d.txt > output/output%02d.txt' % (i, i))
         elif choice == 3:  # Choice of language is Java
-            os.system('javac Logic_java_1.java')  # System call to compile .java file
+            os.system('javac logic.java')  # System call to compile .java file
             # System call to generate output files for Java
-            os.system('java Logic_java_1 < input/input%02d.txt > output/output%02d.txt' % (i, i))
+            os.system('java logic < input/input%02d.txt > output/output%02d.txt' % (i, i))
         elif choice == 4:  # Choice of language is Python
             # System call to generate output files for Python
             os.system('python Logic.py < input/input%02d.txt > output/output%02d.txt' % (i, i))
