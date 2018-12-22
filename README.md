@@ -19,7 +19,7 @@ Date | Duration | Signup Count | Login Count | User who submitted |
 Code | Name | Author | Link | Solution | Accuracy |
 ------------------ | ------------- | ------------- | ------------- | ------------- | ---------- |
 A |  |  |  |  |  |
-B | MathWorks | Tanmay Ambadkar | [Here](https://www.hackerrank.com/contests/iiitv-bitsetgo-18/challenges/mathworks) | [Java](CashInThatCarry/Logic.java), Py[3](CashInThatCarry/Logic.py), [C++](CashInThatCarry/logic.cpp), [C](CashInThatCarry/Logic.c) | 24.32% |
+B | MathWorks | Tanmay Ambadkar | [Here](https://www.hackerrank.com/contests/iiitv-bitsetgo-18/challenges/mathworks) | [Java](CashInThatCarry/Logic.java), [Py3](CashInThatCarry/Logic.py), [C++](CashInThatCarry/logic.cpp), [C](CashInThatCarry/Logic.c) | 24.32% |
 C | Cash-in that Carry | Tanmay Ambadkar | [Here](https://www.hackerrank.com/contests/iiitv-bitsetgo-18/challenges/cash-in-that-carry) | [Java](Mathworks/Logic_Java_2.java), [Py3](Mathworks/Logic.py), [C++](Mathworks/logic.cpp), [C](Mathworks/Logic.c) | 21.52%  |
 D |  |  |  |  |  |
 E |  |  |  |  |  |
