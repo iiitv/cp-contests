@@ -7,7 +7,7 @@ public class Logic_Java_1
         int div[]={1, 3, 2, 6, 4, 5};
         int t=in.nextInt();
         in.nextLine();
-        for(int i=0;i<t;i++)
+        while(t>0)
         {
             String n=in.nextLine();
             int len=n.length();
@@ -30,6 +30,7 @@ public class Logic_Java_1
                 System.out.println("YES");
             else
                 System.out.println("NO");
+            t--;
         }
     }
 }                
