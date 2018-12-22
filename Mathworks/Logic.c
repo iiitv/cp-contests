@@ -24,10 +24,9 @@ int main()
 			f3=f3+a[j]*x; 
 			j--;	
 		}
-		f1=(f1==0);
 		f2=f2%9;
 		f3=f3%7;
-		if(f1&&!f2&&!f3)
+		if(!f1&&!f2&&!f3)
 			printf("YES\n");
 		else
 			printf("NO\n");
