@@ -39,20 +39,20 @@ for i in range(0, tf + 1):
     You can set difficulty of test cases all by you.
     '''
     # Input File Printing Starts
-    x = rint(1,1000)  # number of test cases in (1,100)
+    x = 1200  # number of test cases in (1,100)
     # Prints x into input file
     letters=['q','w','e','r','t','y','u','i','o','p',' ']
     print(x)
     for z in range(x):
-        stlen=rint(20,150)
+        stlen=rint(2000,3000)
         sent=""
         for c in range(stlen):
             let=rint(0,10)
             sent=sent+letters[let]
         q=sent.split()
         print(len(q))
-        print(sent)
-        print("{:.1f}".format(random.random()*50))
+        print(' '.join(q))
+        print("{:.2f}".format(random.random()*5000))
                 
     sys.stdout.close()
     # Input File Printing Ends
