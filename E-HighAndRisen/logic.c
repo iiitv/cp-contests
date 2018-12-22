@@ -5,11 +5,10 @@ int main(){
         int T;
         scanf("%d",&T);
         while(T--){
-                int r,blocks;
+                int r;
                 int n;
                 scanf("%d %d",&r,&n);
-                blocks = ( log(r)/log(4) ) - 1;
-                if( blocks <=2 ){
+                if( ( log(r)/log(4) ) - 1 < 3 ){
                     printf("NO SHIFTING\n");
                 }
                 else{
