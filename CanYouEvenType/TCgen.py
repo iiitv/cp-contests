@@ -77,7 +77,7 @@ with zipfile.ZipFile('test-cases.zip', 'w', zipfile.ZIP_DEFLATED) as zf:
             os.system('java logic < input/input%02d.txt > output/output%02d.txt' % (i, i))
         elif choice == 4:  # Choice of language is Python
             # System call to generate output files for Python
-            os.system('python Q4.py < input/input%02d.txt > output/output%02d.txt' % (i, i))
+            os.system('python logic.py < input/input%02d.txt > output/output%02d.txt' % (i, i))
 
         end = time.time()
         print('Time taken to execute this TC %02f' % (end - start), file=sys.stderr)
