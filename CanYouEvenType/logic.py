@@ -37,11 +37,11 @@ for i in range(0,n):
     time-=0.3
     time=round(time,1)
     if time<t:
-        print("WORK HARDER, {:.2f}".format(time))
+        print("WORK HARDER, {}".format(time))
     elif time==t:
-        print("GOOD, {:.2f}".format(time))
+        print("GOOD, {}".format(time))
     else:
-        print("GREAT JOB, {:.2f}".format(time))
+        print("GREAT JOB, {}".format(time))
 
 
     
