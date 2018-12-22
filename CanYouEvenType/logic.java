@@ -5,7 +5,7 @@ public class logic
     {
         Scanner in=new Scanner(System.in);
         int n=in.nextInt();
-        while(n>0)
+        while(n>0);
         {
             int w=in.nextInt();
             in.nextLine();
@@ -64,12 +64,21 @@ public class logic
             time-=3;
 			time=time/10.0;
             if(time>t)
-                System.out.println("GREAT JOB, "+time);
-            else if(time==t)
-                System.out.println("GOOD, "+time);
-            else
-                System.out.println("WORK HARDER, "+time);
-	n--;
+			{
+                System.out.printf("GREAT JOB, %.2f",time);
+				System.out.println();
+			}
+			else if(time==t)
+			{
+                System.out.printf("GOOD, %.2f",time);
+				System.out.println();
+            }
+			else
+			{
+                System.out.printf("WORK HARDER, %.2f",time);
+				System.out.println();
+			}
+			n--;
         }
     }
 }
