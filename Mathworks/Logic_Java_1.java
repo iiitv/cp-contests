@@ -13,7 +13,7 @@ public class Logic_Java_1
             int len=n.length();
             int a=n.charAt(len-1)-'0';
             boolean x, y, z;
-            x= (a==0)
+            x= (a==0);
             int k=5;
             int s1=0,s2=0;
             for(int j=0;j<len;j++,k--)
