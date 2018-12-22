@@ -1,4 +1,5 @@
 #include <iostream>
+#include <iomanip>
 
 using namespace std;
 
@@ -11,9 +12,9 @@ int main()
     cin>>T;
     while(T--)
     {
-        long long n,c;
-        cin>>c>>n;
-        cout<<((c*n*n*n)%1000000007)<<"\n";
+        long r;
+        cin>>r;
+        cout<<fixed<<setprecision(2)<<r*r*((((4*1.73 - 5)*3.14) - 3*1.73)/2)<<"\n";
     }
     return 0;
 }
