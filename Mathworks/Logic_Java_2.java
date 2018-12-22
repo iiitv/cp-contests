@@ -5,10 +5,10 @@ public class Logic_Java_2
     public static void main(String args[])
     {
         Scanner in = new Scanner(System.in);
-        int t=0;
-        for(int i=0;i<t;i++)
+        int t=in.nextInt();
+        while(t>0)
         {
-            BigInteger n=new BigInteger(in.nextLine());
+            BigInteger n=in.nextBigInteger();
             BigInteger a=new BigInteger("2");
             BigInteger b=new BigInteger("5");
             BigInteger c=new BigInteger("7");
@@ -17,6 +17,7 @@ public class Logic_Java_2
                 System.out.println("YES");
             else
                 System.out.println("NO");
+            t--;
         }
     }
 }
