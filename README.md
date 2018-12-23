@@ -34,4 +34,4 @@ H | ICNS Assignemnt | Abhishek Katara | [Here](https://www.hackerrank.com/contes
 
 - [HackerRank](https://www.hackerrank.com)
 - Coding Club Mentors and Memebers
-- Organizing Team (Neeraj, Pushkar Patel and Tanmay)
+- Organizing Team (Neeraj, Pushkar and Tanmay)
