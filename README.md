@@ -10,7 +10,7 @@ Contest Link: https://www.hackerrank.com/iiitv-bitsetgo-18
 
 Date | Duration | Signup Count | Login Count | User who submitted |
 ------------------ | ------------- | ------------- | ------------- | ------------- |
-22/12/2018 | 4hrs | 4073 (4179*) | 1208 🎉 | 661 ✨ |
+22/12/2018 | 4hrs | 4073 (4362*) | 1208 🎉 | 661 ✨ |
 
 ---
 
