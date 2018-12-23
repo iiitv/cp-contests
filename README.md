@@ -34,4 +34,4 @@ H |  |  |  |  |  |
 
 - [HackerRank](https://www.hackerrank.com)
 - Coding Club Mentors and Memebers
-- Organizing Team (Neeraj, Pushakar and Tanmay)
+- Organizing Team (Neeraj, Pushkar and Tanmay)
