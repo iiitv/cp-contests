@@ -1,8 +1,10 @@
+
 # bitSetGo
 
+<img src="logo_trans.png" align="right" width=150px>
 This repository will contain one folder for each problem containing its TC Gen file.
 
-You can generate test cases using [Test Case Generator](git.io/tcgen)
+You can generate test cases using [Test Case Generator](https://git.io/tcgen)
 
 ## bitSetGo Report
 
@@ -33,5 +35,5 @@ H | ICNS Assignemnt | Abhishek Katara | [Here](https://www.hackerrank.com/contes
 ## Event Supporters
 
 - [HackerRank](https://www.hackerrank.com)
-- Coding Club Mentors and Memebers
+- Coding Club Mentors and Members
 - Organizing Team (Neeraj, Pushkar and Tanmay)
