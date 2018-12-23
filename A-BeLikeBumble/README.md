@@ -19,16 +19,17 @@ The next day, it **makes a new hexagonal lattice hive** with seven unit cells co
 After the end of day 2, the hives look like this:
 
 ![image](https://s3.amazonaws.com/hr-assets/0/1545482825-d5df314acd-day-1.jpg)
-On the third day, it **makes another hive next to the two previous ones**, in the same pattern and goes on doing so for $n$ days.
 
-Seeing his hard work, the Queen Bee decided to award him with a constant times the number of cells he has used altogether to make the hives. Given the number of days $n$ Bumble has worked and the value of the constant $c$, help the queen calculate the reward.
+On the third day, it **makes another hive next to the two previous ones**, in the same pattern and goes on doing so for n days.
+
+Seeing his hard work, the Queen Bee decided to award him with a constant times the number of cells he has used altogether to make the hives. Given the number of days n Bumble has worked and the value of the constant c, help the queen calculate the reward.
 
 All the Best!
 
 ## Input Format
 
-- The first line contains an integer $T$, denoting the number of test cases.
-- Each of the subsequent $T$ lines contain two numbers $c$ and $n$, denoting the value of the constant and the number of days Bumble has worked.
+- The first line contains an integer T, denoting the number of test cases.
+- Each of the subsequent T lines contain two numbers c and n, denoting the value of the constant and the number of days Bumble has worked.
 
 ## Constraints
 
@@ -40,14 +41,15 @@ All the Best!
 
 ## Output Format
 
-- For each test case, print the $(reward)modulo(10^{9}+7)$ in a new line.
+- For each test case, print the (reward)modulo(10^{9}+7) in a new line.
 
 ## Editorial
 
-The answer is $c\cdot n^{3}$.
+The answer is c &bull; n<sup>3</sup>.
 
-The numbers $1, 7, 19, 37...$ that are the number of hives Bumble has used each day are [centered hexagonal numbers](https://en.wikipedia.org/wiki/Centered_hexagonal_number).
+The numbers 1, 7, 19, 37... that are the number of hives Bumble has used each day are [centered hexagonal numbers](https://en.wikipedia.org/wiki/Centered_hexagonal_number).
 
-An $n^{th}$ centered hexagonal number is given by the formula, $n^{3}-(n-1)^{3}$.
+An n<sup>th</sup> centered hexagonal number is given by the formula, n<sup>3</sup> - (n-1)<sup>3</sup>.
 
-Hence, $\sum\limits_{x = 1}^n$ $(x^{3}-(x-1)^{3})=n^{3}$
+Hence, summing up the following for x from 1 to n,
+ &Sigma; (x<sup>3</sup> - (x-1)<sup>3</sup>) = n<sup>3</sup>
