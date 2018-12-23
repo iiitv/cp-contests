@@ -10,7 +10,7 @@ Contest Link: https://www.hackerrank.com/iiitv-bitsetgo-18
 
 Date | Duration | Signup Count | Login Count | User who submitted |
 ------------------ | ------------- | ------------- | ------------- | ------------- |
-22/12/2018 | 4hrs | 4073 (4362*) | 1208 🎉 | 661 ✨ |
+22/12/2018 | 4hrs | 4073 (4444*) | 1208 🎉 | 661 ✨ |
 
 ---
 
@@ -26,7 +26,7 @@ E | High and Risen | Pushkar | [Here](https://www.hackerrank.com/contests/iiitv-
 F |  |  |  |  |  |
 |   **Bonus**     |
 G | Exponential Root | Mohit and Aashutosh  | [Here](https://www.hackerrank.com/contests/iiitv-bitsetgo-18/challenges/god-mod) | [C++](G-exponentialRoot/logic.cpp), [Py3](G-exponentialRoot/logic.py)| 11.11% |
-H |  |  |  |  |  |
+H | ICNS Assignemnt | Abhishek Katara | [Here](https://www.hackerrank.com/contests/iiitv-bitsetgo-18/challenges/root-game) |  | 0.00% |
 
 ---
 
