@@ -35,5 +35,5 @@ H | ICNS Assignemnt | Abhishek Katara | [Here](https://www.hackerrank.com/contes
 ## Event Supporters
 
 - [HackerRank](https://www.hackerrank.com)
-- Coding Club Mentors and Members
+- [Coding Club](https://www.facebook.com/iiitvcc/) Mentors and Members
 - Organizing Team ([Neeraj](https://github.com/neeraj3029), [Pushkar](https://github.com/thepushkarp/bitSetGo.git) and [Tanmay](https://github.com/TanmayAmbadkar))
