@@ -1,7 +1,6 @@
-
 # bitSetGo
 
-<img src="logo_trans.png" align="right" width=150px>
+![logo](/small_logo.png)
 
 This repository will contain one folder for each problem containing its TC Gen file.
 
@@ -9,7 +8,7 @@ You can generate test cases using [Test Case Generator](https://git.io/tcgen)
 
 ## bitSetGo Report
 
-Contest Link: https://www.hackerrank.com/iiitv-bitsetgo-18
+Contest Link: [IIITV bitSetGo 18](https://www.hackerrank.com/iiitv-bitsetgo-18)
 
 Date | Duration | Signup Count | Login Count | User who submitted |
 ------------------ | ------------- | ------------- | ------------- | ------------- |
@@ -37,4 +36,4 @@ H | ICNS Assignemnt | Abhishek Katara | [Here](https://www.hackerrank.com/contes
 
 - [HackerRank](https://www.hackerrank.com)
 - Coding Club Mentors and Members
-- Organizing Team (Neeraj, Pushkar and Tanmay)
+- Organizing Team ([Neeraj](https://github.com/neeraj3029), [Pushkar](https://github.com/thepushkarp/bitSetGo.git) and [Tanmay](https://github.com/TanmayAmbadkar))
