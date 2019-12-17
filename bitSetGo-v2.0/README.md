@@ -22,7 +22,8 @@ Date | Duration | Signup Count | Login Count | User who submitted |
 Code | Name | Author | Link | Solution | Accuracy |
 --- | --- | --- | --- | --- | --- |
 A | Snakes in Sabar Again | Pushkar Patel | | [C](A-Snakes-in-Sabar-Again/logic.c), [C++](A-Snakes-in-Sabar-Again/logic.cpp), [Java](A-Snakes-in-Sabar-Again/logic.java), [Python](A-Snakes-in-Sabar-Again/logic.py) | 25.76% |
-
+B | Tricky Proposal | Atishay Jain | | [C++](B-Tricky-Proposal/logic.cpp), [Java](B-Tricky-Proposal/logic.java), [Python](B-Tricky-Proposal/logic.py) | 28.71% |
+C | Tricky Journey | Atishay Jain | | [C++](C-Tricky-Journey/logic.cpp), [Java](C-Tricky-Proposal/logic.java), [Python](C-Tricky-Journey/logic.py) | 0.00% |
 ---
 
 ## Event Supporters
