@@ -4,16 +4,12 @@ This folder will contain one folder for each problem containing its TC Gen file.
 
 ## Contest Report
 
-**Contest Description:**
-
-**Contest Link:** [bitSetGo v2.0](https://www.hackerearth.com/challenges/college/iiitv-bitSetGo-2/)
-
-**Leaderboard Link:**
+**Contest Description:** An annual Competitive Programming contest hosted by IIITV for first-year students. Problems are designed  keeping in mind the level and preparation of the students. The event was sponsered by GitHub and prizes were distributed to the top three participant in the laderboard.
 
 
-Date | Duration | Signup Count | Login Count | User who submitted |
---- | --- | --- | --- | --- |
- | | | | |
+Contest Link | Leaderboard | Date | Duration | Signup Count |
+--- | --- |--- |--- |--- |
+[bitSetGo v2.0](https://www.hackerearth.com/challenges/college/iiitv-bitSetGo-2/) | [bitSetGo v2.0 Leaderboard](https://www.hackerearth.com/challenges/college/iiitv-bitSetGo-2/leaderboard/) | 12th December | 2 hr 45 mins | 96 |
 
 ---
 
