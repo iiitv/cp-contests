@@ -10,9 +10,9 @@ All the questions form the below contests are available for practice from the re
 
 S. no | Contest Name | Contest Link | Date | Platform |
 --- | --- | --- | --- | -- |
-1. |iiitv.init() | https://www.hackerrank.com/iiitv-init | Sept 9 to Sept 10, 2017 | HackerRank |
+1. | iiitv.init() | https://www.hackerrank.com/iiitv-init | Sept 9 to Sept 10, 2017 | HackerRank |
 2. | iiitv.short() | https://www.hackerrank.com/iiitv-short | Sep 28 to Sep 29, 2017 | HackerRank |
-3. | iiitv.\_str\_() | https://www.hackerrank.com/iiitv-str | Dec 10 to Dec 15, 2017 |HackerRank |
+3. | iiitv.\_str\_() | https://www.hackerrank.com/iiitv-str | Dec 10 to Dec 15, 2017 | HackerRank |
 4. | iiitv-RoC | https://www.hackerrank.com/iiitv-roc | Feb 3 to Feb 4, 2018 | HackerRank |
 5. | iiitv.init() 2018 | https://www.hackerrank.com/iiitv-init-2018 | Sep 8 2018 to Sep 9, 2018 | HackerRank |
 6. | iiitv.short() A | https://www.hackerrank.com/iiitv-short-a-18 | Sep 29 to Sep 30, 2018 | HackerRank |
