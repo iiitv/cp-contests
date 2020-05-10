@@ -29,7 +29,7 @@ S. no | Contest | Date | Platform |
 15 | [bitSetGo v2.0](bitSetGo-v2.0/) | Dec 12, 2019 | HackerEarth |
 16 | [CodeHers 2.0](https://www.hackerrank.com/codehers-2) | Dec 21, 2020 | HackerRank |
 17 | [Cook-a-Code Online Qualifier 2020](https://codechef.com/CACD2020) | Mar 1 to Mar 2, 2020 | CodeChef |
-18 | [Campus Chapters Contest 1.0](https://www.codechef.com/CHPTRS01) (in collaboration with other CodeChef Campus Chapter) | Apr 2 to Apr 5, 2020 | CodeChef |
+18 | [Campus Chapters Contest 1.0](https://www.codechef.com/CHPTRS01) (in collaboration with other CodeChef Campus Chapters) | Apr 2 to Apr 5, 2020 | CodeChef |
 
 ## Problem Authors and Editorialists 👨‍💻👩‍💻
 
