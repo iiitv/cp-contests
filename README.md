@@ -27,7 +27,7 @@ S. no | Contest | Date | Platform |
 13 | [iiitv.init() Advanced 2019](https://www.hackerrank.com/iiitv-init-advanced-2019) | Oct 2 to Oct 3, 2019 | HackerRank |
 14 | [iiitv.str()](https://www.hackerearth.com/challenges/college/test-draft-2-1489/) | Oct 30 to Nov 2, 2019 | HackerEarth |
 15 | [bitSetGo v2.0](bitSetGo-v2.0/) | Dec 12, 2019 | HackerEarth |
-16 | [CodeHers 2.0](https://www.hackerrank.com/codehers-2) | Dec 21, 2020 | HackerRank |
+16 | [CodeHers 2.0](https://www.hackerrank.com/codehers-2) | Dec 21, 2019 | HackerRank |
 17 | [Cook-a-Code Online Qualifier 2020](https://codechef.com/CACD2020) | Mar 1 to Mar 2, 2020 | CodeChef |
 18 | [Campus Chapters Contest 1.0](https://www.codechef.com/CHPTRS01) (in collaboration with other CodeChef Campus Chapters) | Apr 2 to Apr 5, 2020 | CodeChef |
 
