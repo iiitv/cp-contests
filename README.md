@@ -4,7 +4,7 @@
 
 <h2 align='center'> An archive of Competitive Programming contests hosted by the <a href='https://twitter.com/iiitvcc'>IIITV Coding Club</a></h2>
 
-All the questions form the below contests are available for practice from the respective links.
+All the questions are available for practice from the contest links.
 
 ## Contests 🏆
 
@@ -33,7 +33,7 @@ S. no | Contest | Date | Platform |
 
 ## Problem Authors and Editorialists 👨‍💻👩‍💻
 
-We would like to thank all our problem setters, editorialists, contest organisers and everybody else in the team who have helped us in conducting the CP contests through these years. It could not have been possible  without your dedicated efforts ✨.
+We would like to thank all our problem setters, editorialists, contest organisers and everybody else in the team who have helped in conducting CP contests through these years. It could not have been possible without their dedicated efforts ✨.
 
 - Avi Aryan
 - Neelansh Sahai
