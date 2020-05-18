@@ -35,29 +35,29 @@ S. no | Contest | Date | Platform |
 
 We would like to thank all our problem setters, editorialists, contest organisers and everybody else in the team who have helped in conducting CP contests through these years. It could not have been possible without their dedicated efforts ✨.
 
-- Avi Aryan
-- Neelansh Sahai
-- Abhishek Katara
-- Yash Ladha
-- Mohit Yadav
-- Aashutosh Rathi
-- Monal Shadi
-- Divyesh Puri
-- Rachana Soma
-- Neeraj Rajpurohit
-- Akshita Agarwalla
-- Vashist Hegde
-- Vishal Gaur
-- Tanmay Ambadkar
-- Pushkar Patel
-- Kishan Dhakan
-- Siddharth Mani Tiwari
-- Abhishek Mittal
-- Nishant Satapara
-- Siddhartha Tiwari
-- Kavya Tripathi
-- Vidit Shukla
-- Atishay Jain
+- Avi Aryan [:link:](https://github.com/aviaryan)
+- Neelansh Sahai [:link:](https://github.com/neelanshsahai)
+- Abhishek Katara [:link:](https://github.com/abhishekkatara)
+- Yash Ladha [:link:](https://github.com/yashLadha)
+- Mohit Yadav [:link:](https://github.com/mohitkyadav)
+- Aashutosh Rathi [:link:](https://github.com/aashutoshrathi)
+- Monal Shadi [:link:](https://github.com/Monal5031)
+- Divyesh Puri [:link:](https://github.com/DivyeshPuri)
+- Rachana Soma [:link:](https://github.com/Rachana040)
+- Neeraj Rajpurohit [:link:](https://github.com/neeraj3029)
+- Akshita Agarwalla [:link:](https://github.com/akshitaagarwa11a)
+- Vashist Hegde [:link:](https://github.com/vashist99)
+- Vishal Gaur [:link:](https://github.com/i-vishi)
+- Tanmay Ambadkar [:link:](https://github.com/TanmayAmbadkar)
+- Pushkar Patel [:link:](https://github.com/thepushkarp)
+- Kishan Dhakan [:link:](https://github.com/Kishan-Dhakan)
+- Siddharth Mani Tiwari [:link:](https://github.com/i-msid)
+- Abhishek Mittal [:link:](https://github.com/mittal-sahab)
+- Nishant Satapara [:link:](https://github.com/NishantSatapara)
+- Siddhartha Tiwari [:link:](https://github.com/sid-tiw)
+- Kavya Tripathi [:link:](https://github.com/kavyatripathi)
+- Vidit Shukla [:link:](https://github.com/vidit2512)
+- Atishay Jain [:link:](https://github.com/Atishay990)
 
 ---
 
