@@ -61,4 +61,4 @@ We would like to thank all our problem setters, editorialists, contest organiser
 
 ---
 
-<p align='center'>Made with ❤️ by <a href='https://github/iiitv'>IIITV Open Source Org</a></p>
+<p align='center'>Made with ❤️ by <a href='https://github.com/iiitv'>IIITV Open Source Org</a></p>
