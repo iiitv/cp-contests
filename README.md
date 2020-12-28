@@ -56,9 +56,14 @@ We would like to thank all our problem setters, editorialists, contest organiser
 - [Abhishek Mittal](https://github.com/mittal-sahab)
 - [Nishant Satapara](https://github.com/NishantSatapara)
 - [Siddhartha Tiwari](https://github.com/sid-tiw)
+- [Naveen Kumar](https://github.com/naveen19991124)
+- [Ishank Soni](https://github.com/ishanksoni)
 - [Kavya Tripathi](https://github.com/kavyatripathi)
 - [Vidit Shukla](https://github.com/vidit2512)
 - [Atishay Jain](https://github.com/Atishay990)
+- [Chirag Mathur](https://github.com/Chirag-Mathur)
+- [Vikrant Kumar](https://github.com/vikiwarrior)
+- [Suryansh Kumar](https://github.com/<yet-to-be-added>)
 
 ---
 
