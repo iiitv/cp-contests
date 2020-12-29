@@ -63,7 +63,7 @@ We would like to thank all our problem setters, editorialists, contest organiser
 - [Atishay Jain](https://github.com/Atishay990)
 - [Chirag Mathur](https://github.com/Chirag-Mathur)
 - [Vikrant Kumar](https://github.com/vikiwarrior)
-- [Suryansh Kumar](https://github.com/<yet-to-be-added>)
+- [Suryansh Kumar](https://github.com/dragno99)
 
 ---
 
