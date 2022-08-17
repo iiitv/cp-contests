@@ -75,6 +75,18 @@ We would like to thank all our problem setters, editorialists, contest organiser
 - [Chirag Mathur](https://github.com/Chirag-Mathur)
 - [Vikrant Kumar](https://github.com/vikiwarrior)
 - [Suryansh Kumar](https://github.com/dragno99)
+- [Mugdha Sharma](https://github.com/mugdha273)
+- [Madhur Gupta](https://github.com/Im-Madhur-Gupta)
+- [Prathak Garg](https://github.com/PrathakGarg)
+- [Kalash Shah](https://github.com/kalashshah)
+- [Akhilesh Manda](https://github.com/AkhileshManda)
+- [Chitranshi Srivastava](https://github.com/chitranshi135)
+- [Aniruddh Modi](https://github.com/AniModi)
+- [Satyam Tripathi](https://github.com/satyacasm)
+- [Shubh Patel](https://github.com/shubhpatel2197)
+- [Krish Patel](https://github.com/krish-patel1003)
+- [Raj Shah](https://github.com/raj-j-shah)
+- [Poojan Baraiya](https://github.com/PoojanBaraiya)
 
 ---
 
