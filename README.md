@@ -31,6 +31,17 @@ S. no | Contest | Date | Platform |
 17 | [Cook-a-Code Online Qualifier 2020](https://codechef.com/CACD2020) | Mar 1 to Mar 2, 2020 | CodeChef |
 18 | [Campus Chapters Contest 1.0](https://www.codechef.com/CHPTRS01) (in collaboration with other CodeChef Campus Chapters) | Apr 2 to Apr 5, 2020 | CodeChef |
 19 | [iiitv.str()](https://www.codechef.com/STR2020) | Oct 17 to Oct 19, 2020 | CodeChef |
+20 | [iiitv.init() Mains 2021](https://www.hackerrank.com/iiitv-initmains) | Feb 19, 2021 | Hackerrank |
+21 | [CodeHers 3.0](https://www.hackerrank.com/codehers-3-0) | Feb 26, 2021 | Hackerrank |
+22 | [Cook-a-code](https://www.codechef.com/CAC22021) | April 2, 2021 | Codechef |
+23 | [CodeStrike](https://www.hackerrank.com/codestrike-iiitv) | May 22, 2021 | Hackerrank |
+24 | [CodeStrike V2.0](https://www.hackerrank.com/codestrike-v2-0-iiitv) | Sept 5, 2021 | Hackerrank |
+25 | [iiitv.str() V3.0](https://www.codechef.com/STR32021) | Oct 30 to Oct 31, 2021 | CodeChef |
+26 | [iiitv.init() Mains 2022](https://www.hackerrank.com/iiitv-initmain) | Feb 4, 2022 | Hackerrank |
+27 | [CodeHers 4.0](https://www.hackerrank.com/codehers-4-0) | Feb 12, 2022 | Hackerrank |
+28 | [Cook-a-code](https://www.codechef.com/CKCD2022) | March 19, 2022 | Codechef |
+29 | [CodeStrike V3.0](https://www.hackerrank.com/codestrike-v3) | May 21, 2022 | Hackerrank |
+30 | [CodeStrike V4.0](https://www.hackerrank.com/codestrike-v4) | July 15, 2022 | Hackerrank |
 
 ## Problem Authors and Editorialists 👨‍💻👩‍💻
 
