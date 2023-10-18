@@ -42,6 +42,11 @@ S. no | Contest | Date | Platform |
 28 | [Cook-a-code](https://www.codechef.com/CKCD2022) | March 19, 2022 | Codechef |
 29 | [CodeStrike V3.0](https://www.hackerrank.com/codestrike-v3) | May 21, 2022 | Hackerrank |
 30 | [CodeStrike V4.0](https://www.hackerrank.com/codestrike-v4) | July 15, 2022 | Hackerrank |
+31 | [iiitv.str() V4.0](https://www.codechef.com/STRV2022) | Nov 6 to Nov 7, 2022 | CodeChef |
+32 | [iiitv.init() Mains 2023](https://www.hackerrank.com/iiitv-initmains-2023) | Jan 28, 2023 | HackerRank |
+33 | [CodeHers 5.0](https://www.hackerrank.com/codehers-iiitv-5) | Mar 20, 2023 | HackerRank |
+34 | [Cook-a-Code](https://www.codechef.com/CACD2023) | April 6, 2023 | CodeChef |
+35 | [CodeStrike V5.0](https://www.hackerrank.com/codestrike-v5-0) | Jun 23, 2023 | HackerRank |
 
 ## Problem Authors and Editorialists 👨‍💻👩‍💻
 
@@ -87,6 +92,12 @@ We would like to thank all our problem setters, editorialists, contest organiser
 - [Krish Patel](https://github.com/krish-patel1003)
 - [Raj Shah](https://github.com/raj-j-shah)
 - [Poojan Baraiya](https://github.com/PoojanBaraiya)
+- [Anurag Kumar](https://github.com/anuragk0)
+- [Ajay Jain](https://github.com/ajayjainn)
+- [Darsh Patel](https://github.com/darsh9510)
+- [Jeet Jani](https://github.com/JeetJani-11)
+- [Maurya Patel](https://github.com/Maurya69)
+- [Siddharth Gogri](https://github.com/sid8109)
 
 ---
 
