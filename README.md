@@ -46,7 +46,10 @@ S. no | Contest | Date | Platform |
 32 | [iiitv.init() Mains 2023](https://www.hackerrank.com/iiitv-initmains-2023) | Jan 28, 2023 | HackerRank |
 33 | [CodeHers 5.0](https://www.hackerrank.com/codehers-iiitv-5) | Mar 20, 2023 | HackerRank |
 34 | [Cook-a-Code](https://www.codechef.com/CACD2023) | April 6, 2023 | CodeChef |
-35 | [CodeStrike V5.0](https://www.hackerrank.com/codestrike-v5-0) | Jun 23, 2023 | HackerRank |
+35 | [iiitv.init(advanced) 2023](https://www.hackerrank.com/iiitv-initadvanced-2023) | April 29, 2023 | HackerRank |
+36 | [CodeStrike V5.0](https://www.hackerrank.com/codestrike-v5-0) | Jun 23, 2023 | HackerRank |
+37 | [iiitv.init(Mains)](https://www.hackerrank.com/iiitv-init-mains) | Oct 29, 2023 | HackerRank |
+38 | [CodeHers 6.0](https://www.hackerrank.com/codehers-iiitv-6) | Mar 3, 2024 | HackerRank |
 
 ## Problem Authors and Editorialists 👨‍💻👩‍💻
 
