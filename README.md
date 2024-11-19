@@ -50,9 +50,10 @@ S. no | Contest | Date | Platform |
 36 | [CodeStrike V5.0](https://www.hackerrank.com/codestrike-v5-0) | Jun 23, 2023 | HackerRank |
 37 | [iiitv.init(Mains)](https://www.hackerrank.com/iiitv-init-mains) | Oct 29, 2023 | HackerRank |
 38 | [CodeHers 6.0](https://www.hackerrank.com/codehers-iiitv-6) | Mar 3, 2024 | HackerRank |
-39 | [CodeStrike V6.0](https://www.hackerrank.com/codestrike2024) | June 16, 2024 | HackerRank |
-40 | [Cook-a-Code](https://codeforces.com/contests/565997) | Nov 15, 2024 | CodeForces |
-41 | [iiitv.init(Mains)](https://codeforces.com/contestInvitation/2af4ae6f5dd82192da2d22ed54312125e590820b) | Nov 16, 2024 | CodeForces |
+39 | [Code-Clash](https://practice.geeksforgeeks.org/contest/code-clash-by-iiit-vadodara) | April 16, 2024 | GeeksForGeeks |
+40 | [CodeStrike V6.0](https://www.hackerrank.com/codestrike2024) | June 16, 2024 | HackerRank |
+41 | [Cook-a-Code](https://codeforces.com/contests/565997) | Nov 15, 2024 | CodeForces |
+42 | [iiitv.init(Mains)](https://codeforces.com/contestInvitation/2af4ae6f5dd82192da2d22ed54312125e590820b) | Nov 16, 2024 | CodeForces |
 
 ## Problem Authors and Editorialists 👨‍💻👩‍💻
 
